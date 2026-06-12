@@ -11,7 +11,7 @@ This repository contains multiple Python lab exercises covering programming fund
 ```text
 python-programming-labs/
 ├── lab-01/
-├── lab-06/
-├── lab-07/
-├── lab-08/
-└── lab-11/
+├── lab-02/
+├── lab-03/
+├── lab-04/
+└── lab-05/
